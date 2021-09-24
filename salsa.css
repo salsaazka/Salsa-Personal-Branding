@@ -1,0 +1,164 @@
+body{
+    background-color:hsl(22, 87%, 78%);
+}
+div h1{
+    color: rgb(88, 15, 15);
+    width: 28%;
+    margin:auto;
+    display: block;
+    font-style: inherit;
+    border:5px rgb(126, 47, 47);
+    background-color: rgb(238, 185, 117);
+
+}
+       
+div img{
+
+    margin: auto;
+    display: block;
+    border: 7px rgb(160, 33, 33);
+    border-radius: 100%;   
+    animation-fill-mode:forwards;
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    font-variant: inherit;
+    font-weight: 700;
+    font-size: 15px;
+    color:rgb(238, 185, 117);
+}
+
+div.pa{
+    line-height: 20px;
+    background-color: rgb(177, 47, 47);
+    max-width: 75%;
+    min-height: 100px;
+    margin-right: 10px;
+    font-size: 18px;
+    margin:auto;
+    display: block;
+    box-shadow: 10px 10px rgb(180, 68, 34);
+    color:rgb(238, 185, 117);
+}
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+} 
+
+h3 {
+    font-size:arial,verdana, sans-serif;
+    color: rgb(100, 3, 36);
+    font-style: inherit;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+}
+
+div.de{
+    background-color: rgb(238, 185, 117);
+    width: 55%;
+    font-size: 18px;
+    margin-right: 5%; 
+    box-shadow: 8px 8px rgb(180, 68, 34);
+    color:rgb(180, 68, 34)
+}
+div.ca{
+    background-color: rgb(177, 47, 47);
+    width: 20%;
+    height: auto;
+    font-size: 18px;
+    margin-right: 5%;
+}
+h2{
+    margin: auto;
+    display: block;
+    margin-top: 50px !important;
+    margin: 1% 48%;
+    color: rgb(100, 3, 36); 
+}
+
+div.pe{
+    background-color: rgb(158, 39, 39);
+    width: 45%;
+    font-size: 18px;
+    margin-top: 32px !important;
+    margin: 1% 32%;
+    box-shadow: 10px 10px rgb(180, 68, 34);
+    color:rgb(238, 185, 117);
+    line-height: 20px;
+}
+
+div.pr{
+    background-color: rgb(238, 185, 117);
+    width: 40%;
+    font-size: 18px;
+    box-shadow: 5px 5px rgb(180, 68, 34);
+    color:rgb(155, 56, 26);
+}
+div.sp{
+    background-color: rgb(238, 185, 117);
+    width: 40%;
+    font-size: 18px;
+    box-shadow: 8px 8px rgb(180, 68, 34);
+    color:rgb(155, 56, 26);
+}
+
+
+:root{
+    --warnamaroon:rgb(158, 39, 39);
+    --warnabeige: rgb(238, 185, 117);
+    --lebarkotak: 700px;
+    --tinggikotak: 140px;
+    --ukuranfont: 17px;
+
+ }
+
+ .ins-1 {
+  width: var(--lebarkotak);
+  height: var(--tinggikotak);
+  margin: 10px;
+  background-color: var(--warnamaroon);
+  font-size: var(--ukuranfont);
+  box-shadow: 10px 10px rgb(231, 100, 60);
+  color:rgb(238, 185, 117);
+ }
+
+ .ins-2 {
+  width: var(--lebarkotak);
+  height: var(--tinggikotak);
+  margin: 10px;
+  background-color: var(--warnabeige);
+  font-size:var(--ukuranfont);
+  margin-top: 80px !important;
+  margin: 5% 40%;
+  box-shadow: 8px 8px rgb(180, 68, 34);
+  color: rgb(180, 68, 34);
+  
+ }
+
+ .ins-3 {
+    width: var(--lebarkotak);
+    height: var(--tinggikotak);
+    margin: 10px;
+    background-color: var(--warnamaroon);
+    font-size:var(--ukuranfont);
+    box-shadow: 10px 10px rgb(231, 100, 60);
+    color:rgb(238, 185, 117);
+ }
+
+  .ins-4 {
+    width: var(--lebarkotak);
+    height: var(--tinggikotak);
+    margin: 10px;
+    background-color: var(--warnabeige);
+    font-size:var(--ukuranfont);
+    margin-top: 80px !important;
+    margin: 5% 40%;
+    box-shadow: 8px 8px rgb(180, 68, 34);
+    color: rgb(180, 68, 34);
+    
+}
+
+
