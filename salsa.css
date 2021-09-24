@@ -58,7 +58,7 @@ h3 {
 
 div.de{
     background-color: rgb(238, 185, 117);
-    width: 350%;
+    width: 250%;
     font-size: 18px;
     margin-right: 5%; 
     box-shadow: 8px 8px rgb(180, 68, 34);
@@ -67,7 +67,7 @@ div.de{
 div.ca{
     background-color: rgb(177, 47, 47);
     width: 245px;
-    height: 160px;
+    height: 150px;
     font-size: 18px;
 }
 h2{
